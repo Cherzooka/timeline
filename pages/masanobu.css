@@ -1,10 +1,8 @@
 body {
   background-image: url("../images/b0nn13_4nd_clyd3-2yFds_AfgdE-unsplash.jpg");
-  background-attachment: scroll;
-  background-blend-mode: normal;
-  background-clip: border-box;
-  background-origin: padding-box;
-  background-position: initial;
-  background-repeat: repeat;
-  background-size: auto;
+  background-attachment: fixed;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #0d0300;
 }
